@@ -1,11 +1,6 @@
 import login from '../../Page/login'
 import {Given, When, Then, And} from "cypress-cucumber-preprocessor/steps";
 const Login = new login
-// beforeEach(()=>{
-//     Cypress.on('uncaught:exeception',()=>{
-//         return false
-//     })
-// })
 
 Given ("I am on the login page",()=>{
     Login.url()

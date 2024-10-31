@@ -22,7 +22,7 @@ submitRepayment(){
     cy.get(this.submitPaymentButton).click()
 }
 repaymentSchedule(){
-    cy.get(this.repaymentScheduleButton).click().click()
+    cy.get(this.repaymentScheduleButton).click()
     cy.get(this.repaymentScheduleTable).should('be.visible')
 }
 

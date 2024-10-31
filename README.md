@@ -16,7 +16,7 @@ After a thorough test of the site, it was observed that the task contained repea
 
 - [ ] [Cypress v. 13.15.1](https://www.npmjs.com/package/cypress)
 
-- [ ] [Mochaawesome v.]()
+- [ ] [Mochaawesome v.7.1.3]()
 
 ---
 
@@ -53,5 +53,4 @@ A pipeline config was added to ensure that the test can run in a pipeline for ev
 ### Contributor
 ---
 -[ ] [AYANLOYE SEGUN]()
-
--[ ] [SOFTWARE QUALITY ASSURANCE ENGINEER]()
+     Software Quality Assurance Engineer

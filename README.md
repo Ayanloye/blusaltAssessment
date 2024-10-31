@@ -52,5 +52,5 @@ A pipeline config was added to ensure that the test can run in a pipeline for ev
 
 ### Contributor
 ---
--[ ] [AYANLOYE SEGUN]()
--[ ] Software Quality Assurance Engineer
+- [ ] [AYANLOYE SEGUN]()
+- [ ] Software Quality Assurance Engineer
